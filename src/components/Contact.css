@@ -1,0 +1,60 @@
+
+section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    color: #666;
+  }
+  
+  
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  label {
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  input,
+  textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #007bff; 
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .contact-info p {
+    margin-top: 20px;
+    color:aliceblue; 
+  }
+  .contact-content p ,h2{
+    color:aliceblue; 
+  }
+  label{
+    color:aliceblue;  
+  }
+  
+  
+  
